@@ -1,5 +1,4 @@
-# PRODIGY_CS_01
-<h1>Caesar Cipher</h1>
+# Caesar Cipher
 
 The Caesar Cipher is a classic substitution cipher where each letter in the plaintext is shifted by a certain number of places down or up the alphabet. It is one of the oldest and simplest encryption techniques. Named after Julius Caesar, who used it to communicate securely with his officials, the cipher is a basic form of encryption that shifts characters in the alphabet.
 
